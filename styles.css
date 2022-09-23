@@ -1,4 +1,6 @@
 body {
-    background-color: lightblue;
+    background-color: darkgray;
     text-align: center;
+    color: white;
+    font-family: "Times New Roman", serif;
 }
