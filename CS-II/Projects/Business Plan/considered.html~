@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>ISP Considered</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+  <body>
+    <div class="w3-top">
+      <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+	<a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/index.html" class="w3-bar-item w3-button">Digital Portfolio</a>
+	<div class="w3-right w3-hide-small">
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/classes.html" class="w3-bar-item w3-button">Classes</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/isp.html" class="w3-bar-item w3-button">CSI ISP</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/CS-II/Essays/AI Sentience.html" class="w3-bar-item w3-button">AI Sentience</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/CS-II/Essays/fingerprints.html" class="w3-bar-item w3-button">Fingerprints</a>
+	  <a href="index.html" class="w3-bar-item w3-button">Business Plan</a>
+	</div>
+      </div>
+    </div>
+    <header>
+      <br>
+      <br>
+      <div class="w3-content w3=padding" style="max-width:1564px">
+	<center> <h1> <b>Considered Proposals</b> </h1> </center>
+  

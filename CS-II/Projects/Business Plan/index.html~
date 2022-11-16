@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>ISP Proposal</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+  <body>
+    <div class="w3-top">
+      <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+	<a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/index.html" class="w3-bar-item w3-button">Digital Portfolio</a>
+	<div class="w3-right w3-hide-small">
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/classes.html" class="w3-bar-item w3-button">Classes</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/isp.html" class="w3-bar-item w3-button">CSI ISP</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/CS-II/Essays/AI Sentience.html" class="w3-bar-item w3-button">AI Sentience</a>
+	  <a href="https://www.codermerlin.com/users/jake-podewils/Digital%20Portfolio/CS-II/Essays/fingerprints.html" class="w3-bar-item w3-button">Fingerprints</a>
+	</div>
+      </div>
+    </div>
+    <header>
+      <br>
+      <br>
+      <div class="w3-content w3-padding" style="max-width:1564px">
+	<center> <h1> <b>ISP Proposal</b> </h1> </center>
+	<br>
+	<center> <h2>(title goes here)</h2>
+      </div>
+      <div class="w3-row-padding w3-grayscale">
+	<div class="w3-bol l12 m6 w3-margin-bottom">
+	  <h3>Identity</h3>
+	  <h4>(insert title name here) is a casino designed to be accessed anywhere in the world, in the comfort of your home. We are an online casino, that is made to be incredibly easy to access, and incredibly safe and secure. This casino is incredibly different from other casinos, as rather with luck, you could quite possibly use your intelligence to recieve great rewards.</h4>
+	  <h3>Problem</h3>
+	  <h4>We, (insert title name here), are here to help solve the problem of finances, and the problem of not being able to use your intelligence to good use.</h4>
+	  <h3>Solution</h3>
+	  <h4>This casino is made and created to be possible to spend no money, and still recieve money in return. Overall, when purchasing currency, you are able to select the "Problem" button, and a random problem, whether it is math, science, computer science, physics, or any random problems. These problems will be worth 1000 points (equal to $10 USD), and is able to be repeated up to 10 times per session!</h4>
+	  <h3>Target Market</h3>
+	  <h4>The Target Market is individuals who are incredibly smart, and are around 25-40.</h4>
+	  <h3>Competition</h3>
+	  <h4>Our competition is comprised of many well known casinos, such as the WinStar World Casino located in Oklahoma, and the Mohegan Sun in Conneticut.</h4>
+	  <h3>Revenue Streams</h3>
+	  <h4>Our Revenue Streams will be comprised of selling beverages and food, as well as the money earned from people playing the slot machines, and not winning anything.</h4>
+	  <h3>Marketing Activities</h3>
+	  <h4>Some of our Marketing Activities will be going to airports, and putting some posters, and maybe even a stand, and help inform people about the location of our casino, and what we have to offer. We will also play many TV commercials, and put up billboards outside of airports.</h4>
+	  <h3>Expenses</h3>
+	  <h4>Creating the actual machines, and creating anti-theft casino algorithms would surely require a coder, and a few manufacturers to create. We would also need many chefs, and waitresses, and front desk responders, who would be able to help run our casino</h4>
+	  <h3>Team and Key Roles</h3>
+	  <h4>Currently, the only team member is Jake Podewils, the owner of (INSERT TITLE HERE), but as we gain revenue, we are hoping to add a social media team, and find some celebrities and youtubers to sponsor for them to come into our casino.</h4>
+	  <h3>Milestones</h3>
+	  <h4>Hopefully, during the summer, we will be able to reach a total amount of customers per year of 100 thousand, and be able to truly say we are rising not only has a company and an organization, but as a family.</h4>
+	</div>
+      </div>
+    </header>
+  </body>
+</html>
